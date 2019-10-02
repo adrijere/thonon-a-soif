@@ -11,7 +11,7 @@ export default {
     shadowOffset:{ width: 0, height: 2 },
   },
   centerComponent: {
-    color: '#fff',
+    color: '#fffff',
     fontSize: 18,
     lineHeight: 21,
     fontFamily: Fonts.Raleway
